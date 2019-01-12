@@ -10,7 +10,7 @@
         
             <item>
                 <title>Announcing Version 2.0</title>
-                <link>http://jeffchan.xyz/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</link>
+                <link>http://jeffchan.xyz/2015/07/11/announcing-pixyll-version-2/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>In an effort to make Pixyll easier to customize and more aesthetically pleasing, we’ve released version <code class="highlighter-rouge">2.0</code>.</p>
@@ -26,7 +26,7 @@
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</guid>
+                <guid isPermaLink="false">/2015/07/11/announcing-pixyll-version-2/</guid>
                 <description>
                     
                     Now, Pixyll is lighter weight and more customizable than before.
@@ -40,7 +40,7 @@
         
             <item>
                 <title>Hello, Pixyll</title>
-                <link>http://jeffchan.xyz/jekyll/pixyll/2014/06/11/welcome-to-pixyll/</link>
+                <link>http://jeffchan.xyz/2014/06/11/welcome-to-pixyll/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Hello.</p>
@@ -64,7 +64,7 @@
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/jekyll/pixyll/2014/06/11/welcome-to-pixyll/</guid>
+                <guid isPermaLink="false">/2014/06/11/welcome-to-pixyll/</guid>
                 <description>
                     
                     Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
@@ -78,7 +78,7 @@
         
             <item>
                 <title>Pixyll in Action</title>
-                <link>http://jeffchan.xyz/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</link>
+                <link>http://jeffchan.xyz/2014/06/10/see-pixyll-in-action/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
@@ -214,7 +214,7 @@ or add, features.</p>
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</guid>
+                <guid isPermaLink="false">/2014/06/10/see-pixyll-in-action/</guid>
                 <description>
                     
                     See what the different elements looks like. Your markdown has never looked better. I promise.
@@ -228,7 +228,7 @@ or add, features.</p>
         
             <item>
                 <title>So, What is Jekyll?</title>
-                <link>http://jeffchan.xyz/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</link>
+                <link>http://jeffchan.xyz/2014/06/09/so-what-is-jekyll/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Jekyll is a tool for transforming your plain text into static websites and 
@@ -243,7 +243,7 @@ and <a href="http://en.wikipedia.org/wiki/Textile_(markup_language)">Textile</a>
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</guid>
+                <guid isPermaLink="false">/2014/06/09/so-what-is-jekyll/</guid>
                 <description>
                     
                     Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
@@ -257,14 +257,14 @@ and <a href="http://en.wikipedia.org/wiki/Textile_(markup_language)">Textile</a>
         
             <item>
                 <title>Pixyll has Pagination</title>
-                <link>http://jeffchan.xyz/jekyll/pixyll/2014/06/08/pixyll-has-pagination/</link>
+                <link>http://jeffchan.xyz/2014/06/08/pixyll-has-pagination/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>This is an empty post to illustrate the pagination component with Pixyll.</p>
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/jekyll/pixyll/2014/06/08/pixyll-has-pagination/</guid>
+                <guid isPermaLink="false">/2014/06/08/pixyll-has-pagination/</guid>
                 <description>
                     
                     This is an empty post to illustrate the pagination component with Pixyll.
