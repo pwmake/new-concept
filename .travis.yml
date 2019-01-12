@@ -1,21 +1,10 @@
 language: ruby
 cache: bundler
-sudo: false
-rvm:
-  - 2.3
-  - 2.4
-  - 2.5
-  - 2.6
 branches:
   only:
-    - release
+  - release
 script:
-  - bundle exec jekyll build --destination site
-  - grep johnotander/pixyll _site/index.html
-  - grep post-title         _site/index.html
-  - grep pagination-item    _site/index.html
-  - grep johnotander/pixyll _site/css/pixyll.css
-  - grep 404                _site/404.html
+  - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
   provider: pages
   local-dir: ./site
