@@ -8,7 +8,7 @@ url:         "http://jeffchan.xyz"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+ - archive.md
 
 # Google services
 google_verification:
@@ -114,14 +114,13 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    /:year/:month/:day/:title/
 paginate:     4
 sass:
   style: compressed
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
   - Gemfile.lock
