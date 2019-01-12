@@ -7,34 +7,33 @@
     <atom:link href="http://jeffchan.xyz/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Understanding Linux Virtualization</title>
-        <description>&lt;p&gt;This &lt;em&gt;chapter&lt;/em&gt; provides the reader with an insight into the prevailing technologies in Linux virtualization and their advantage over others.&lt;/p&gt;
+        <title>S03E11 - Not Guilty</title>
+        <description>&lt;p&gt;Customs Officers are quite &lt;code class=&quot;highlighter-rouge&quot;&gt;tolerant&lt;/code&gt; these days, but then can still stop you wen you are going through the &lt;code class=&quot;highlighter-rouge&quot;&gt;Green Channel&lt;/code&gt; and have nothing to &lt;code class=&quot;highlighter-rouge&quot;&gt;declare&lt;/code&gt;. Even really honest people are often made to feel guilt. The &lt;code class=&quot;highlighter-rouge&quot;&gt;hardened&lt;/code&gt; professional &lt;code class=&quot;highlighter-rouge&quot;&gt;smuggler&lt;/code&gt;, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned f rom aboard recentlly, a particularly &lt;code class=&quot;highlighter-rouge&quot;&gt;officious&lt;/code&gt; young Customs Officer clearly regarded me as a smuggler.&lt;/p&gt;
 
-&lt;p&gt;There are a total of &lt;strong&gt;14&lt;/strong&gt; chapters in this book, which are lined up to cover all the important aspects of &lt;code class=&quot;highlighter-rouge&quot;&gt;KVM virtualization&lt;/code&gt;, starting from KVM internals and advanced topics such as softwaredefined networking, performance tuning, and optimization, to physical to virtual migration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Have you anything to declare ?”&lt;/em&gt; he asked, looking me in the eye.&lt;/p&gt;
 
-&lt;p&gt;In this chapter, we will cover the following topics:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“No,”&lt;/em&gt; I answered confidently.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Linux virtualization and its basic concepts&lt;/li&gt;
-  &lt;li&gt;Why you should use Linux virtualization&lt;/li&gt;
-  &lt;li&gt;Hypervisor/VMM&lt;/li&gt;
-  &lt;li&gt;What Linux virtualization offers you in the cloud&lt;/li&gt;
-  &lt;li&gt;Public and private clouds&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;“Would you mind unlocking this suitcase please?”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;OK, let’s begin!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Not at all”&lt;/em&gt;,  I answered.&lt;/p&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# attention&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt update 
+&lt;p&gt;The Officer &lt;code class=&quot;highlighter-rouge&quot;&gt;went through&lt;/code&gt; the case with great care. All the things I had packed so carefully were soon in a &lt;code class=&quot;highlighter-rouge&quot;&gt;dreadful&lt;/code&gt; mess. I felt I would never be  able to close the case  again. Suddenly, I saw the Officer’s face light up. He had &lt;code class=&quot;highlighter-rouge&quot;&gt;spotted&lt;/code&gt; a tiny bottle at the buttom of my case and  he &lt;code class=&quot;highlighter-rouge&quot;&gt;pounced&lt;/code&gt; on it with delight.&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;“Perfume, eh?”&lt;/em&gt; He asked &lt;code class=&quot;highlighter-rouge&quot;&gt;sarcastically&lt;/code&gt;. &lt;em&gt;“You should have declared that. Perfume is not &lt;code class=&quot;highlighter-rouge&quot;&gt;exempt&lt;/code&gt; from &lt;code class=&quot;highlighter-rouge&quot;&gt;import duty&lt;/code&gt;.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;“But it isn’t perfume, “&lt;/em&gt; I said. &lt;em&gt;“It’s hair gel. “&lt;/em&gt; Then I added with a simle, &lt;em&gt;“It’s a strange mixture I make myself.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;to be continuing…!&lt;/p&gt;
+&lt;p&gt;As I expected, he did not believe me.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Try it!”&lt;/em&gt; I said encouragingly.&lt;/p&gt;
+
+&lt;p&gt;The Officer &lt;code class=&quot;highlighter-rouge&quot;&gt;unscrewed the cap&lt;/code&gt; and put the bottle to his &lt;code class=&quot;highlighter-rouge&quot;&gt;nostrils&lt;/code&gt;. He was greeted by an unpleasant smell which convinced him that I was telling the truth. A few minutes later, I was able to hurry away with &lt;code class=&quot;highlighter-rouge&quot;&gt;precious chalk marks&lt;/code&gt; on my baggage.&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://jeffchan.xyz/2019/01/12/test-page/</link>
-        <guid isPermaLink="true">http://jeffchan.xyz/2019/01/12/test-page/</guid>
+        <link>http://jeffchan.xyz/2019/01/12/s03-e11-not-guilty/</link>
+        <guid isPermaLink="true">http://jeffchan.xyz/2019/01/12/s03-e11-not-guilty/</guid>
       </item>
     
   </channel>

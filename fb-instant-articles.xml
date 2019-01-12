@@ -9,40 +9,39 @@
     
         
             <item>
-                <title>Understanding Linux Virtualization</title>
-                <link>http://jeffchan.xyz/2019/01/12/test-page/</link>
+                <title>S03E11 - Not Guilty</title>
+                <link>http://jeffchan.xyz/2019/01/12/s03-e11-not-guilty/</link>
                 <content:encoded>
                     <![CDATA[
-                    <p>This <em>chapter</em> provides the reader with an insight into the prevailing technologies in Linux virtualization and their advantage over others.</p>
+                    <p>Customs Officers are quite <code class="highlighter-rouge">tolerant</code> these days, but then can still stop you wen you are going through the <code class="highlighter-rouge">Green Channel</code> and have nothing to <code class="highlighter-rouge">declare</code>. Even really honest people are often made to feel guilt. The <code class="highlighter-rouge">hardened</code> professional <code class="highlighter-rouge">smuggler</code>, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned f rom aboard recentlly, a particularly <code class="highlighter-rouge">officious</code> young Customs Officer clearly regarded me as a smuggler.</p>
 
-<p>There are a total of <strong>14</strong> chapters in this book, which are lined up to cover all the important aspects of <code class="highlighter-rouge">KVM virtualization</code>, starting from KVM internals and advanced topics such as softwaredefined networking, performance tuning, and optimization, to physical to virtual migration.</p>
+<p><em>“Have you anything to declare ?”</em> he asked, looking me in the eye.</p>
 
-<p>In this chapter, we will cover the following topics:</p>
+<p><em>“No,”</em> I answered confidently.</p>
 
-<ul>
-  <li>Linux virtualization and its basic concepts</li>
-  <li>Why you should use Linux virtualization</li>
-  <li>Hypervisor/VMM</li>
-  <li>What Linux virtualization offers you in the cloud</li>
-  <li>Public and private clouds</li>
-</ul>
+<p><em>“Would you mind unlocking this suitcase please?”</em></p>
 
-<p>OK, let’s begin!</p>
+<p><em>“Not at all”</em>,  I answered.</p>
 
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># attention</span>
-<span class="nv">$ </span><span class="nb">sudo </span>apt update 
+<p>The Officer <code class="highlighter-rouge">went through</code> the case with great care. All the things I had packed so carefully were soon in a <code class="highlighter-rouge">dreadful</code> mess. I felt I would never be  able to close the case  again. Suddenly, I saw the Officer’s face light up. He had <code class="highlighter-rouge">spotted</code> a tiny bottle at the buttom of my case and  he <code class="highlighter-rouge">pounced</code> on it with delight.</p>
 
+<p><em>“Perfume, eh?”</em> He asked <code class="highlighter-rouge">sarcastically</code>. <em>“You should have declared that. Perfume is not <code class="highlighter-rouge">exempt</code> from <code class="highlighter-rouge">import duty</code>.”</em></p>
 
-</code></pre></div></div>
+<p><em>“But it isn’t perfume, “</em> I said. <em>“It’s hair gel. “</em> Then I added with a simle, <em>“It’s a strange mixture I make myself.”</em></p>
 
-<p>to be continuing…!</p>
+<p>As I expected, he did not believe me.</p>
+
+<p><em>“Try it!”</em> I said encouragingly.</p>
+
+<p>The Officer <code class="highlighter-rouge">unscrewed the cap</code> and put the bottle to his <code class="highlighter-rouge">nostrils</code>. He was greeted by an unpleasant smell which convinced him that I was telling the truth. A few minutes later, I was able to hurry away with <code class="highlighter-rouge">precious chalk marks</code> on my baggage.</p>
+
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2019/01/12/test-page/</guid>
+                <guid isPermaLink="false">/2019/01/12/s03-e11-not-guilty/</guid>
                 <description>
                     
-                    Linux Virutalization is very important
+                    Customs Officers are quite tolerant these days, but then can still stop you wen you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilt.
                     
                 </description>
                 <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
