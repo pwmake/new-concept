@@ -23,9 +23,8 @@ $h0-responsive-max: 5.76rem !default;
 $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
-// google fonts
-@import url(http://fonts.googleapis.com/css?family=Charm);
-$charm: 'Charm', cursive;
+// added fonts
+$charm: 'Charm', cursive !important;
 
 // Page width
 $measure-width: 42rem !default;
