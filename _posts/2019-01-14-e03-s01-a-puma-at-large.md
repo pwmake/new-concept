@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S03E01 - A puma at large
+title: E03S01 - A puma at large
 date: 2019-01-14
 summary: Pumas are large, cat-like animals which are found in America.
 ---
