@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S03E03 - An unknown goddess
+title: C03 - An unknown goddess
 date: 2019-01-15
 summary: Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S03E02 - Thirteen equals one
+title: C02 - Thirteen equals one
 date: 2019-01-14
 summary: Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.
 ---

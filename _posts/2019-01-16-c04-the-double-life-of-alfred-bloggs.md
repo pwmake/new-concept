@@ -1,6 +1,6 @@
 ---
 layout: post
-title: E03S04 - The double life of Alfred Bloggs
+title: C04 - The double life of Alfred Bloggs
 date: 2019-01-16
 summary: These days, people who do manual work often receive far more money than people who work in offices. 
 ---
