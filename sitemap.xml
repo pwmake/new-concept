@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://jeffchan.xyz/2019/01/12/s03-e11-not-guilty/</loc>
+<loc>http://jeffchan.xyz/2019/01/12/c11-not-guilty/</loc>
 <lastmod>2019-01-12T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://jeffchan.xyz/2019/01/14/s03-e01-a-puma-at-large/</loc>
+<loc>http://jeffchan.xyz/2019/01/14/c01-a-puma-at-large/</loc>
 <lastmod>2019-01-14T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://jeffchan.xyz/2019/01/14/s03-e02-thirteen-equals-one/</loc>
+<loc>http://jeffchan.xyz/2019/01/14/c02-thirteen-equals-one/</loc>
 <lastmod>2019-01-14T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://jeffchan.xyz/2019/01/15/s03-e03-an-unknown-goddess/</loc>
+<loc>http://jeffchan.xyz/2019/01/15/c03-an-unknown-goddess/</loc>
 <lastmod>2019-01-15T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://jeffchan.xyz/2019/01/16/e03-s04-the-double-life-of-alfred-bloggs/</loc>
+<loc>http://jeffchan.xyz/2019/01/16/c04-the-double-life-of-alfred-bloggs/</loc>
 <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://jeffchan.xyz/2019/01/17/c05-the-facts/</loc>
+<lastmod>2019-01-17T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://jeffchan.xyz/about/</loc>
