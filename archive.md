@@ -13,7 +13,7 @@ permalink: /archive/
            <ul>
            {% assign myDate = currentDate %}
        {% endif %}
-       <li><a class="post-list" href="{{ post.url }}"><span>{{ post.date | date: "%b %d, %Y" }}</span> - {{ post.title }}</a></li>
+       <li><a class="post-list" href="{{ post.url }}"><span>{{ post.date | date: "%b %d, %y" }}</span> - {{ post.title }}</a></li>
        {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
 </section>
