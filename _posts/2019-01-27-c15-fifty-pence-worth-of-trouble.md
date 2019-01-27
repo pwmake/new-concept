@@ -2,7 +2,7 @@
 layout: post
 title: C15 - fifty pence worth of trouble
 date: 2019-01-27
-summary: 
+summary: Children always appreciated small gifts of money.
 ---
 
   Children always appreciated small gifts of money. Mum or dad, of course, provide a regular money supply of `pocket money`, but uncles and aunts are always a source of extra income. With some children, small sums `go a long way`. If fifty pence pieces are not exchanged for sweets, they `rattle` for months inside money boxes. Only very `thrifty` children manage to fill up a money box. For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.
