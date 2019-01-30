@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C17 - Electric currents in modern art
+title: C18 - Electric currents in modern art
 date: 2019-01-30
 summary: Modern sculption rarely surprised us any more.
 ---
